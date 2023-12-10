@@ -1,0 +1,8 @@
+{
+    "C_Cpp.default.compilerPath": "c:\\Users\\stefa\\Desktop\\C&Unix\\p1.c",
+    "files.associations": {
+        "stdio.h": "c",
+        "string.h": "c",
+        "stdlib.h": "c"
+    }
+}
